@@ -117,5 +117,6 @@ mimes! {
     IMAGE_STAR, "image/*";
     VIDEO_STAR, "video/*";
     AUDIO_STAR, "audio/*";
+    VIDEO_MP2T, "video/mp2t";
 }
 
